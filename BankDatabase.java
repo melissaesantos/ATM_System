@@ -43,10 +43,3 @@ public class BankDatabase {
         return storedName!= null && storedName.equals(accountName);
     }
 }
-/**
- * Things i still need to add
- * -an add account function so instead of it being an atm they can also make an account
- * add functions for the choices that they can do
- * if they recieve the message of not having an account make itso they can try again 
- * or create an account
- */
