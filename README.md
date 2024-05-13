@@ -19,7 +19,7 @@ Withdrawal: Allows users to withdraw funds from their account, with validations 
 
 Exit: Allows users to exit the ATM system.
 ### 2. BankDatabase.java
-This file contains the implementation of the bank database, which stores account information and balances. Here's an overview:
+This file contains the implementation of the bank database, which stores account information and balances to test the functionality of ATM.java. There are also encapsulation methods that are neccessary for ATM.java.  Here's an overview:
 
 Account Storage: Stores account information (account number and associated name) in a HashMap.
 
