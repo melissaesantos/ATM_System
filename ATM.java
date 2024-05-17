@@ -227,7 +227,3 @@ public class ATM {
 
   
 
-// things to fix:
-//1. when you pick a choice and do that action the loop ends instead of going back to the main menu 
-//2. Need to add a back button to go back to the main menu
-//3. what if they wanna make an account thwn their only choice would be to deposit  
